@@ -1,0 +1,133 @@
+#banner{
+
+    background-color: black;
+    display: flex;
+    position: relative;
+    left: -8px;
+    top: -8px;
+    width: 1536px;
+
+}
+
+#banner > h2{
+
+    color: white;
+    font-family: calibri;
+    position: relative;
+    left: 20px;
+
+}
+
+#meny_pos{
+
+    position: relative;
+    left: 1175px;
+    top: 27.5px;    
+
+}
+
+#meny{
+
+    display: inline;
+    position: relative;
+    left: 500px;
+    top: 27.5px;
+    margin: -10px;
+    padding: -10px;
+
+}
+
+#meny > p{
+
+    display: inline;
+    color: gray;
+    font-size: 26px;
+    font-family: calibri;
+    margin-right: 50px;
+
+}
+
+#meny > a{
+
+    display: inline;
+    color: white;
+    font-size: 26px;
+    font-family: calibri;
+    text-decoration: none;
+    margin-right: 50px;
+
+}
+
+.dot{
+    
+    height: 15px;
+    width: 15px;
+    background-color: white;
+    border-radius: 25%;
+    display: inline-block;
+    margin: 0px 2.5px;
+
+}
+
+h1{
+
+    font-family: calibri;
+    font-size: 50px;
+    position: relative;
+    left: 78px;
+    width: 1000px;
+    margin-bottom: -10px;
+
+}
+
+#text1{
+
+    position: relative;
+    left: 80px;
+    font-size: 20px;
+    font-family: Calibri;
+    width: 550px;
+
+}
+
+li{
+
+    position: relative;
+    left: 80px;
+    width: 1000px;
+    font-family: calibri;
+    font-size: 18px;
+
+}
+
+#img1{
+
+    position: absolute;
+    left: 1100px;
+    top: 130px;
+
+}
+
+#img2{
+
+    position: absolute;
+    left: 700px;
+    top: 130px;
+
+}
+
+#img3{
+
+    position: absolute;
+    left: 900px;
+    top: 400px;
+    width: 300px;
+
+}
+
+#beware{
+
+    font-size: 15px;
+    color: gray;
+
+}

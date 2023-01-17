@@ -1,0 +1,82 @@
+#banner{
+
+    background-color: black;
+    display: flex;
+    position: relative;
+    left: -8px;
+    top: -8px;
+    width: 1536px;
+
+}
+
+#banner > h2{
+
+    color: white;
+    font-family: calibri;
+    position: relative;
+    left: 20px;
+
+}
+
+#meny_pos{
+
+    position: relative;
+    left: 1175px;
+    top: 27.5px;    
+
+}
+
+.dot{
+    
+    height: 15px;
+    width: 15px;
+    background-color: white;
+    border-radius: 25%;
+    display: inline-block;
+    margin: 0px 2.5px;
+
+}
+
+/* Allting ovan tillhör banner */
+
+h1{
+
+    font-family: calibri;
+    font-size: 50px;
+    width: 472px;
+    position: relative;
+    left: 150px;
+    top: 100px;
+
+}
+
+.text{
+
+    position: relative;
+    left: 152.5px;
+    width: 450px;
+    font-size: 20px;
+    font-family: Calibri;
+    top: 95px;
+
+}
+
+#download_button{
+
+position: relative;   
+left: 300px;
+top: 170px;
+background-color: aqua;
+width: fit-content;
+padding: 10px;
+font-family: calibri;
+
+}
+
+img{
+
+    position: absolute;
+    left: 800px;
+    top: 200px;
+
+}

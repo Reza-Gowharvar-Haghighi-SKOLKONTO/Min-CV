@@ -1,0 +1,157 @@
+#banner{
+
+    background-color: black;
+    display: flex;
+    position: relative;
+    left: -8px;
+    top: -8px;
+    width: 1536px;
+
+}
+
+#banner > h2{
+
+    color: white;
+    font-family: calibri;
+    position: relative;
+    left: 20px;
+
+}
+
+#meny_pos{
+
+    position: relative;
+    left: 1175px;
+    top: 27.5px;    
+
+}
+
+.dot{
+    
+    height: 15px;
+    width: 15px;
+    background-color: white;
+    border-radius: 25%;
+    display: inline-block;
+    margin: 0px 2.5px;
+
+}
+
+h1{
+
+    font-family: calibri;
+    font-size: 50px;
+    position: relative;
+    left: 78px;
+    width: 1000px;
+    margin-bottom: -10px;
+
+}
+
+#me{
+
+    width: 50px;
+    position: absolute;
+    left: 270px;
+    top: 120px;
+
+}
+
+#text1{
+
+    position: relative;
+    left: 80px;
+    font-size: 20px;
+    font-family: Calibri;
+    width: 550px;
+
+}
+
+table{
+
+    border: 1px solid black;
+    position: relative;
+    left: 80px;
+
+}
+
+th{
+
+    border: 1px dotted black;
+    width: 175px;
+
+}
+
+td{
+
+    border: 1px dotted black;
+    width: 175px;
+    text-align: center;
+
+}
+
+#notes{
+
+    position: relative;
+    left: 80px;
+    top: -10px;
+    font-size: 16px;
+    font-family: Calibri;
+    width: 200px;
+
+}
+
+#h1{
+
+    display: block;
+    font-size: 50px;
+    margin-top: 0.67em;
+    margin-bottom: -10px;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+    font-family: calibri;
+    position: absolute;
+    left: 798px;
+    top: 78px;
+    width: 400px;
+
+}
+
+#text2{
+
+    position: absolute;
+    left: 800px;
+    top: 162px;
+    font-size: 20px;
+    font-family: Calibri;
+    width: 550px;
+
+}
+
+#img1{
+
+    position: absolute;
+    left: 800px;
+    top: 450px;
+    height: 150px;
+
+}
+
+#img2{
+
+    position: absolute;
+    left: 990px;
+    top: 450px;
+    height: 150px;
+
+}
+
+#img3{
+    
+    position: absolute;
+    left: 1130px;
+    top: 450px;
+    height: 150px;
+
+}
